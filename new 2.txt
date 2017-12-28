@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+
+<title>LisT Type in HTML</title>
+<body>
+<DL>
+<DT>PAKISTAN</DT>
+<DD>Pakistan is the Best Country in the World.<BR>
+We are proud of our Green Nation.</DD>
+
+
+
+</DL>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+</html>
